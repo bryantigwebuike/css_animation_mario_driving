@@ -44,7 +44,7 @@ html, body{
     position: absolute;
     top: -40px;
     left: 0;
-    animation: drive 6s both infinite linear, jump 0.3s 1.2s ease;
+    animation: drive 10s both infinite linear, jump 0.3s 1.2s ease;
   }
 
   .luigi{
@@ -52,7 +52,7 @@ html, body{
     top: 100px;
     left: 0;
     animation-name: drive;
-    animation-duration: 5s;
+    animation-duration: 10s;
     animation-fill-mode: both;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
