@@ -44,7 +44,7 @@ html, body{
     position: absolute;
     top: -40px;
     left: 0;
-    animation: drive 3s both infinite linear, jump 0.3s 1.2s ease;
+    animation: drive 8s both infinite linear, jump 0.3s 1.2s ease;
   }
 
   .luigi{
