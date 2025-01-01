@@ -1,6 +1,6 @@
 ### CSS Animation(movement).
 
-Built a static webpage to practice css animations with focus on
+Built a static webpage to practice css animation with focus on
 the displacement of elements from one point 
 to another on the user interface.
 
