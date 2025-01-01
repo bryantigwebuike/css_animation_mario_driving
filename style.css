@@ -78,7 +78,7 @@ html, body{
   /*// KEYFRAMES //*/
   @keyframes drive{
     from{ transform: translateX(-200px);}
-    to{ transform: translateX(3000px);}
+    to{ transform: translateX(6000px);}
   }
 
   @keyframes wind{
